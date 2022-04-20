@@ -1,0 +1,113 @@
+/* 
+
+  Limpando as formatações padrões " há diferença entre os navegadores, é convecional zerar algumas coisas "
+
+  O CSS vai estar dividido por setores : Layput, Menu e formatações gerais.
+  
+  Dentro desses setores, estarão dispostos por hierarquia :
+
+  Id = 100 pontos
+
+  Classes e seus derivados = 10 pontos
+
+  Tags = 1
+
+  LEMBRANDO !!!!!
+  a estilização in-line vale 1000 pontos, mas como essa pag é extrena então não terá contato com algum in-line, vale deixar lembrado. 
+
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  font-size: 1em; /* Equivale a 16px o padrão usado no Google Chrome */
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background: #e6e6e6;
+}
+
+/* 
+
+  Layout da página
+
+*/
+
+#cabecalho{
+  background-color: darkturquoise;
+  padding: 15px;
+  text-align: center;
+}
+
+#logo, #menu{
+  padding: 10px;
+
+}
+
+#principal{
+  width: 920px;
+  margin: 0 auto;
+}
+
+#posts, #lateral{
+  background: darkturquoise;
+}
+
+#posts{
+  width: 660px;
+  float: left;
+}
+
+#lateral{
+  width: 240px;
+  float: right;
+}
+
+#footer{
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  background: #CCC;
+}
+
+.post{
+  padding: 20px;
+  margin-bottom: 20px;
+  background: white;
+}
+
+/*
+
+  Menu
+
+*/
+
+a{
+  text-decoration: none;
+}
+
+a:link, a:visited{
+  color: whitesmoke;
+  padding: 8px 12px;
+}
+
+a:hover{
+  color: #181818;
+}
+
+
+/*
+
+  Gerais
+
+*/
+
+.azure{
+  color: Azure;
+}
+
+h1{
+  color: #181818;
+  font-size: 2.5em;
+}
