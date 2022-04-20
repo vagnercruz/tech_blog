@@ -1,2 +1,15 @@
-# tech_blog
-Criação de interface para um blog de tecnologia falso, inspirado em sites como Canaltech e Olho Digital
+<h1 align="center">TechBlog</h1>
+<hr>
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-Desenvolvido-%230065b2"/>
+</p>
+
+### Descrição do projeto 
+
+<p align="justify">
+ Projeto para estudos, que visa criar uma interface web onde simula uma página de noticias de tecnologia, tendo como referência os sites " CanalTech " e " Olho Digital ".
+</p>
+
+## Screenshot do projeto
+
+<img align="center" src="Link:https://terabox.com/s/1QGDSqTQGxDgR8NduX9CJhQ"/>
