@@ -12,4 +12,4 @@
 
 ## Screenshot do projeto
 
-[Imgur](https://imgur.com/vra9j34)
+[img]https://i.imgur.com/vra9j34.png
