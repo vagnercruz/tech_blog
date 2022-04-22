@@ -12,4 +12,4 @@
 
 ## Screenshot do projeto
 
-[img]https://i.imgur.com/vra9j34.png
+<blockquote class="imgur-embed-pub" lang="en" data-id="vra9j34"><a href="https://imgur.com/vra9j34">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
