@@ -9,3 +9,7 @@
 <p align="justify">
  Projeto para estudos, que visa criar uma interface web onde simula uma página de noticias de tecnologia, tendo como referência os sites " CanalTech " e " Olho Digital ".
 </p>
+
+## Screenshot do projeto
+
+[Imgur](https://imgur.com/vra9j34)
